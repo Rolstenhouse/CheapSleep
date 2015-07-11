@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/lkorth/bt/android-card-form/CardForm/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="bt_default_action_label">购物</string>
+    <string name="bt_form_hint_card_number">卡号</string>
+    <string name="bt_form_hint_cvv">CVV</string>
+    <string name="bt_form_hint_expiration">失效日期</string>
+    <string name="bt_form_hint_postal_code">邮政编码</string>
+</resources>

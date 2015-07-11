@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/lkorth/bt/braintree-android/Drop-In/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="bt_add_new_payment_method">Añadir nueva forma de pago</string>
+    <string name="bt_add_payment_method">Añadir forma de pago</string>
+    <string name="bt_card_descriptor">termina en %s</string>
+    <string name="bt_change_payment_method">Cambiar forma de pago</string>
+    <string name="bt_choose_payment_method">Seleccionar forma de pago</string>
+    <string name="bt_default_action_bar_text">Comprar</string>
+    <string name="bt_default_submit_button_text">COMPRAR</string>
+    <string name="bt_descriptor_amex">Amex</string>
+    <string name="bt_descriptor_diners">Diners</string>
+    <string name="bt_descriptor_discover">Discover</string>
+    <string name="bt_descriptor_jcb">JCB</string>
+    <string name="bt_descriptor_maestro">Maestro</string>
+    <string name="bt_descriptor_mastercard">MasterCard</string>
+    <string name="bt_descriptor_paypal">PayPal</string>
+    <string name="bt_descriptor_unknown">Tarjeta</string>
+    <string name="bt_descriptor_visa">Visa</string>
+    <string name="bt_form_pay_with_card_header">Pagar Con Tarjeta</string>
+    <string name="bt_invalid_card">La información de la tarjeta no es válida.</string>
+    <string name="bt_pay_with_paypal">Pagar con PayPal</string>
+    <string name="bt_pay_with_venmo">Pagar con Venmo</string>
+</resources>

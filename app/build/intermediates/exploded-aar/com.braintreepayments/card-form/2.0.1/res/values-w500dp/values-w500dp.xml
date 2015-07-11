@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/lkorth/bt/android-card-form/CardForm/src/main/res/values-w500dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bt_full_width">@dimen/bt_landscape_max_width</dimen>
+</resources>

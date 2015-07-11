@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/src/main/lib/json_simple-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/pre-dexed/debug/json_simple-1.1-4048c4bf33bf04509592e5043c9a35424ab02087.jar" />
+    </item>
+    <item
+        jar="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/pre-dexed/debug/classes-aeb2959b9c14f29c9b69e2d3697618e08b9613d7.jar" />
+    </item>
+    <item
+        jar="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/exploded-aar/com.braintreepayments.api/braintree/1.6.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1229bf7cc94388ce92ec8769a495dfe424d38667">
+        <dex dex="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/pre-dexed/debug/classes-1e02f82fa494d8448e2f1feb3646be5b0f315f0d.jar" />
+    </item>
+    <item
+        jar="/Users/rolstenhouse/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-15284f8458b0ad5d902e8274af9b06a4efcfa5f8.jar" />
+    </item>
+    <item
+        jar="/Users/rolstenhouse/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/braintree-api/1.6.4/7d339fb187aaa5f0ffac206ab30a56d9b8220857/braintree-api-1.6.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7d339fb187aaa5f0ffac206ab30a56d9b8220857">
+        <dex dex="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/pre-dexed/debug/braintree-api-1.6.4-15d19e671792db8ce133dc536286759b417509d5.jar" />
+    </item>
+    <item
+        jar="/Users/rolstenhouse/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.7/cd78109020f9ec803ef4e652c17ee4615b03e20a/android-async-http-1.4.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.7-a31344b727c37769c4fa2c5d7247453a6ae79f71.jar" />
+    </item>
+    <item
+        jar="/Users/rolstenhouse/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/data/1.6.4/435b15c4c1c59f5a197d1fe6deb809f884c8459a/data-1.6.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="435b15c4c1c59f5a197d1fe6deb809f884c8459a">
+        <dex dex="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/pre-dexed/debug/data-1.6.4-e2f53a635f2d0f6e8a7c5f8a228c4e10077bbd07.jar" />
+    </item>
+    <item
+        jar="/Users/rolstenhouse/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/pre-dexed/debug/gson-2.3.1-017a72509abfbe815f858fb2d2c9a9d88f91baa0.jar" />
+    </item>
+    <item
+        jar="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/exploded-aar/com.braintreepayments/card-form/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3c355553b4bd7c3a22bc21f483b91a746f2685b">
+        <dex dex="/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/pre-dexed/debug/classes-8e500344a8750d7a3e7f977ba4cdef2a5f6fb639.jar" />
+    </item>
+
+</items>

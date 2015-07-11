@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/exploded-aar/com.braintreepayments/card-form/2.0.1/res/values-v16/values-v16.xml -->
+    <eat-comment/>
+    <style name="bt_base_textview">
+        <item name="android:textSize">@dimen/bt_input_text_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <!-- From: file:/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/exploded-aar/com.braintreepayments.api/braintree/1.6.4/res/values-v16/values-v16.xml -->
+    <eat-comment/>
+    <style name="bt_base_textview_bold">
+        <item name="android:textSize">@dimen/bt_default_text_size</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+</resources>

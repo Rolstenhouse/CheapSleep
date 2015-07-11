@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/lkorth/bt/braintree-android/Drop-In/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="bt_add_new_payment_method">添加新付款方式</string>
+    <string name="bt_add_payment_method">添加付款方式</string>
+    <string name="bt_card_descriptor">尾号为%s</string>
+    <string name="bt_change_payment_method">更改付款方式</string>
+    <string name="bt_choose_payment_method">选择付款方式</string>
+    <string name="bt_default_action_bar_text">购物</string>
+    <string name="bt_default_submit_button_text">购物</string>
+    <string name="bt_descriptor_amex">Amex</string>
+    <string name="bt_descriptor_diners">Diners</string>
+    <string name="bt_descriptor_discover">Discover</string>
+    <string name="bt_descriptor_jcb">JCB</string>
+    <string name="bt_descriptor_maestro">Maestro</string>
+    <string name="bt_descriptor_mastercard">MasterCard</string>
+    <string name="bt_descriptor_paypal">PayPal</string>
+    <string name="bt_descriptor_unknown">卡</string>
+    <string name="bt_descriptor_visa">Visa</string>
+    <string name="bt_form_pay_with_card_header">使用卡付款</string>
+    <string name="bt_invalid_card">卡信息无效</string>
+    <string name="bt_pay_with_paypal">用PayPal付款</string>
+    <string name="bt_pay_with_venmo">用Venmo付款</string>
+</resources>

@@ -1,0 +1,6 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+</LinearLayout><!-- From: file:/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/src/main/res/layout/alarm_welcome.xml -->

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <!-- From: file:/Users/lkorth/bt/android-card-form/CardForm/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="bt_black">#001129</color>
+    <color name="bt_blue">#009BDE</color>
+    <color name="bt_light_gray">#6d6d6d</color>
+    <color name="bt_red">#DD5555</color>
+    <!-- From: file:/Users/lkorth/bt/android-card-form/CardForm/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bt_floating_edit_text_horizontal_offset">12dp</dimen>
+    <dimen name="bt_full_width" ns1:ignore="ReferenceType">@integer/bt_match_parent</dimen>
+    <dimen name="bt_input_text_size">16sp</dimen>
+    <dimen name="bt_landscape_max_width">500dp</dimen>
+    <integer name="bt_match_parent">-1</integer>
+    <!-- From: file:/Users/lkorth/bt/android-card-form/CardForm/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="bt_default_action_label">Purchase</string>
+    <string name="bt_form_hint_card_number">Card Number</string>
+    <string name="bt_form_hint_cvv">CVV</string>
+    <string name="bt_form_hint_expiration">Expiration</string>
+    <string name="bt_form_hint_postal_code">Postal Code</string>
+    <!-- From: file:/Users/lkorth/bt/android-card-form/CardForm/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="bt_base_textview">
+        <item name="android:textSize">@dimen/bt_input_text_size</item>
+    </style>
+    <style name="bt_card_form_field" parent="bt_base_textview">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">64dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textColorHint">@color/bt_light_gray</item>
+        <item name="android:textCursorDrawable" ns1:ignore="NewApi">@null</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="bt_card_form_field_landscape" parent="bt_card_form_field">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+</resources>

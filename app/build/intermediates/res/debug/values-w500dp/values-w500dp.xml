@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/exploded-aar/com.braintreepayments/card-form/2.0.1/res/values-w500dp/values-w500dp.xml -->
+    <eat-comment/>
+    <dimen name="bt_full_width">@dimen/bt_landscape_max_width</dimen>
+    <!-- From: file:/Users/rolstenhouse/Desktop/programming/hackstart/androidstudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w500dp/values.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">4</integer>
+</resources>
